@@ -1,6 +1,7 @@
 package org.fasttrackit.transfer;
 
 import java.time.LocalDate;
+
 //DTO (Data Transfer Object). This class helps us get info from the client app and use them in our app.
 public class CreateTaskRequest {
 

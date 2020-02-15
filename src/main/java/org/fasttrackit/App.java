@@ -12,7 +12,7 @@ import java.util.List;
 
 public class App 
 {
-    public static void main( String[] args ) throws SQLException, IOException {
+    public static void main( String[] args ) throws SQLException, IOException, ClassNotFoundException {
         // here we have this object in order to be able to access functions/methods inside it
         TaskRepository taskRepository= new TaskRepository();
 
